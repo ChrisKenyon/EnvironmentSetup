@@ -4,6 +4,7 @@ sudo apt-get -y upgrade
 # Basics
 sudo apt-get -y install vim
 sudo apt-get -y install tmux
+sudo apt-get -y install tmuxinator
 sudo apt-get -y install chromium-browser
 # Python
 sudo apt-get -y install python3
